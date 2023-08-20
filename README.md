@@ -1,4 +1,9 @@
-# React + Vite
+# Grocery Redux List 
+
+- Grocery List was created using Redux and React only for practice or understanding purposes.
+- For any queries, contact through this <a href="http://samarth-portfolio-website.000webhostapp.com" target="_blank">website</a>.
+
+## React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
